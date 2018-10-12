@@ -20,7 +20,7 @@
 		}else if(id==2){
 			name = 'maxBlock';
 		}else{
-			name=' reorderBlock';
+			name='reorderBlock';
 		}
 
 	    $.ajax({
